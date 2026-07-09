@@ -1,0 +1,4 @@
+investor_id,transaction_date,amfi_code,transaction_type,amount_inr,state,city,city_tier,age_group,gender,annual_income_lakh,payment_mode,kyc_status
+INV000001,2026-06-15,125497,sip ,5000,Delhi,New Delhi,T30,26-35,Female,12.5,UPI,verified
+INV000002,2026-06-16,102345,Lumpsum,50000,Maharashtra,Mumbai,T30,36-45,Male,24.0,Net Banking,pending
+INV000003,2026-06-17,145678,Redemption,-1000,Karnataka,Bengaluru,T30,18-25,Female,6.5,Mandate,verified

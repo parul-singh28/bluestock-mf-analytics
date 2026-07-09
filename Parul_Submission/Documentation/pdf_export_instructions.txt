@@ -1,0 +1,4 @@
+To generate a PDF from the academic report:
+1. Install a LaTeX distribution such as MiKTeX or TeX Live.
+2. Compile the file Final_Report.tex using pdflatex.
+3. Output will be produced as Final_Report.pdf.

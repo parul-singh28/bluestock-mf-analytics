@@ -1,0 +1,52 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+\begin{document}
+\begin{center}
+{\Large \textbf{Bluestock Mutual Fund Capstone Report}}\\[0.5em]
+{\large Analytical Workflow for Fund Performance, Investor Behaviour, and SIP Trends}
+\end{center}
+\vspace{1em}
+\section{Executive Summary}
+This capstone project develops a complete analytics workflow for Bluestock mutual fund data, covering data ingestion, database loading, exploratory analysis, performance evaluation, and dashboard preparation. The project demonstrates how structured financial data can be transformed into decision-ready insights for mutual fund monitoring and investor analysis.
+
+\section{Objectives}
+\begin{itemize}[leftmargin=1.5em]
+\item Build a reliable ETL pipeline for mutual fund data.
+\item Create a normalized SQLite database for analytics use.
+\item Explore patterns in fund characteristics, NAV movement, SIP behavior, and investor transactions.
+\item Prepare a Power BI dashboard structure for interactive reporting.
+\item Deliver a submission-ready project package with clear documentation.
+\end{itemize}
+
+\section{Data Sources}
+The analysis uses fund master data, NAV history, monthly SIP inflows, scheme performance data, and investor transactions.
+
+\section{Methodology}
+\begin{enumerate}[leftmargin=1.5em]
+\item Ingest data from CSV files into a consistent workflow.
+\item Clean and validate the data structure.
+\item Create and load the SQLite database schema.
+\item Perform exploratory analysis and visualization.
+\item Prepare performance metrics and dashboard-ready outputs.
+\end{enumerate}
+
+\section{Key Findings}
+\begin{itemize}[leftmargin=1.5em]
+\item Equity-oriented funds dominate the available sample.
+\item NAV behavior differs meaningfully across funds, highlighting variation in risk-return profiles.
+\item SIP and transaction activity reveal informative investor participation patterns.
+\item The prepared dashboard structure supports overview, performance, and investor analytics use cases.
+\end{itemize}
+
+\section{Business Relevance}
+The project provides a practical framework for understanding mutual fund performance, monitoring investor engagement, and supporting portfolio and marketing decisions. The deliverables are suitable for academic submission and can be extended into a more advanced production workflow.
+
+\section{Conclusion}
+The Bluestock Mutual Fund Capstone project successfully integrates data engineering, analytics, and visualization into a cohesive submission package. It demonstrates a strong foundation for future work in dashboard automation, live NAV ingestion, and advanced portfolio analytics.
+\end{document}

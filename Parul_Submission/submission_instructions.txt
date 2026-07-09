@@ -1,0 +1,1 @@
+1. Upload this Parul_Submission folder to Google Drive.\n2. Create the five sub-folders: Source Code, Datasets, Documentation, PPT_Slides, Demo Video.\n3. Place the files in the matching folders.\n4. Share the top-level Parul_Submission folder with Anyone with the link -> Viewer.\n5. Copy the Drive share link and submit it.
