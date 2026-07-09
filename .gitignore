@@ -1,0 +1,9 @@
+*.db
+*.pbix
+*.twbx
+*.pdf
+*.pptx
+__pycache__/
+.venv/
+.venv-1/
+.venv-2/

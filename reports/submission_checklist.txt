@@ -1,0 +1,9 @@
+Submission checklist
+- ETL pipeline script: scripts/etl_pipeline.py
+- SQLite database: data/db/bluestock_mf.db
+- EDA notebook: notebooks/03_eda_analysis.ipynb
+- Performance metrics notebook: notebooks/04_performance_analytics.ipynb
+- Power BI dashboard: dashboard/bluestock_mf.pbip
+- Final report: reports/Final_Report.md, reports/Final_Report.tex, reports/Final_Report.pdf
+- Presentation: reports/Presentation_Content.md, reports/Presentation_Outline.md, reports/Presentation.pptx
+- Export instructions: reports/pdf_export_instructions.txt

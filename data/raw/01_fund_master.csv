@@ -1,0 +1,4 @@
+amfi_code,fund_house,scheme_name,category,sub_category,plan,launch_date,benchmark,expense_ratio_pct,exit_load_pct,fund_manager,risk_category,sebi_category_code
+125497,HDFC Mutual Fund,HDFC Top 100 Direct,Equity,Large Cap,Direct,2013-01-01,NIFTY 100 TRI,1.05,1.0,Rahul Baijal,Very High,EC01
+102345,SBI Mutual Fund,SBI Bluechip Fund,Equity,Large Cap,Regular,2006-02-14,S&P BSE 100 TRI,1.65,1.0,Sohini Andani,Very High,EC01
+145678,Axis Mutual Fund,Axis Midcap Fund,Equity,Mid Cap,Direct,2011-11-27,NIFTY Midcap 150 TRI,0.55,1.0,Shreyash Devalkar,Very High,EC03
