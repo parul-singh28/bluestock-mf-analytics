@@ -1,0 +1,4 @@
+amfi_code,scheme_name,fund_house,risk_category,risk_grade,var_95_pct,cvar_95_pct,obs_count
+125497,HDFC Top 100 Direct,HDFC Mutual Fund,Very High,High,-0.1243229891507976,-0.13139782573954573,9
+145678,Axis Midcap Fund,Axis Mutual Fund,Very High,High,-0.15170077494471293,-0.19074460685977224,9
+102345,SBI Bluechip Fund,SBI Mutual Fund,Very High,High,-0.2350169846509096,-0.2515042025422002,8
