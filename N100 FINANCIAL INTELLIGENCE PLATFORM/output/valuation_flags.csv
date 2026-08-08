@@ -1,0 +1,14 @@
+company_id,company_name,sector,P/E,P/B,EV/EBITDA,FCF_yield_pct,5yr_median_PE,PE_vs_sector_median_pct,flag
+C017,Ntpc,Automobile,16.12,2.32,12.55,7.82,15.56,-40.12,Discount
+C034,Hindalco,Information Technology,16.12,3.44,13.78,10.42,15.56,-33.44,Discount
+C051,Dlf,Metals,16.12,4.56,15.01,7.02,15.56,-35.25,Discount
+C067,Dmart,Information Technology,37.72,1.76,25.32,3.99,37.16,55.74,Caution
+C068,Naukri,Financials,16.12,2.04,12.24,9.59,15.56,-33.44,Discount
+C069,Irctc,FMCG,17.47,2.32,13.38,9.38,16.91,-31.68,Discount
+C070,Bel,Energy,18.82,2.6,14.53,4.88,18.26,-30.09,Discount
+C071,Hal,Healthcare,20.17,2.88,15.67,5.74,19.61,-30.32,Discount
+C084,Boschltd,Metals,37.72,2.88,26.55,4.11,37.16,51.52,Caution
+C085,Indigo,Infrastructure,16.12,3.16,13.47,6.29,15.56,-35.25,Discount
+C086,Gail,Consumer Durables,17.47,3.44,14.62,6.27,16.91,-33.43,Discount
+C087,Ioc,Telecom,18.82,3.72,15.76,6.67,18.26,-31.8,Discount
+C088,Petronet,Chemicals,20.17,4,16.91,7.58,19.61,-30.32,Discount

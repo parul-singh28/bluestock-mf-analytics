@@ -1,0 +1,93 @@
+company_id,ticker,from_year,to_year,previous_pattern,latest_pattern
+C001,RELIANCE,2023,2024,Turnaround,Reinvestor
+C002,TCS,2023,2024,Reinvestor,Cash Compounder
+C003,HDFCBANK,2023,2024,Cash Compounder,Dividend Distributor
+C004,ICICIBANK,2023,2024,Dividend Distributor,Debt Reducer
+C005,INFY,2023,2024,Debt Reducer,Acquisition Led
+C006,BHARTIARTL,2023,2024,Acquisition Led,Capex Heavy
+C007,ITC,2023,2024,Capex Heavy,Working Capital Builder
+C008,LT,2023,2024,Working Capital Builder,Turnaround
+C009,SBIN,2023,2024,Turnaround,Reinvestor
+C010,HINDUNILVR,2023,2024,Reinvestor,Cash Compounder
+C011,AXISBANK,2023,2024,Cash Compounder,Dividend Distributor
+C012,BAJFINANCE,2023,2024,Dividend Distributor,Debt Reducer
+C013,KOTAKBANK,2023,2024,Debt Reducer,Acquisition Led
+C014,M&M,2023,2024,Acquisition Led,Capex Heavy
+C015,SUNPHARMA,2023,2024,Capex Heavy,Working Capital Builder
+C016,MARUTI,2023,2024,Working Capital Builder,Turnaround
+C017,NTPC,2023,2024,Turnaround,Reinvestor
+C018,HCLTECH,2023,2024,Reinvestor,Cash Compounder
+C019,TITAN,2023,2024,Cash Compounder,Dividend Distributor
+C020,ULTRACEMCO,2023,2024,Dividend Distributor,Debt Reducer
+C021,TATAMOTORS,2023,2024,Debt Reducer,Acquisition Led
+C022,POWERGRID,2023,2024,Acquisition Led,Capex Heavy
+C023,ASIANPAINT,2023,2024,Capex Heavy,Working Capital Builder
+C024,BAJAJFINSV,2023,2024,Working Capital Builder,Turnaround
+C025,ONGC,2023,2024,Turnaround,Reinvestor
+C026,NESTLEIND,2023,2024,Reinvestor,Cash Compounder
+C027,COALINDIA,2023,2024,Cash Compounder,Dividend Distributor
+C028,WIPRO,2023,2024,Dividend Distributor,Debt Reducer
+C029,JSWSTEEL,2023,2024,Debt Reducer,Acquisition Led
+C030,ADANIENT,2023,2024,Acquisition Led,Capex Heavy
+C031,TATASTEEL,2023,2024,Capex Heavy,Working Capital Builder
+C032,TECHM,2023,2024,Working Capital Builder,Turnaround
+C033,GRASIM,2023,2024,Turnaround,Reinvestor
+C034,HINDALCO,2023,2024,Reinvestor,Cash Compounder
+C035,CIPLA,2023,2024,Cash Compounder,Dividend Distributor
+C036,DRREDDY,2023,2024,Dividend Distributor,Debt Reducer
+C037,BRITANNIA,2023,2024,Debt Reducer,Acquisition Led
+C038,EICHERMOT,2023,2024,Acquisition Led,Capex Heavy
+C039,DIVISLAB,2023,2024,Capex Heavy,Working Capital Builder
+C040,APOLLOHOSP,2023,2024,Working Capital Builder,Turnaround
+C041,HEROMOTOCO,2023,2024,Turnaround,Reinvestor
+C042,BPCL,2023,2024,Reinvestor,Cash Compounder
+C043,TATACONSUM,2023,2024,Cash Compounder,Dividend Distributor
+C044,BAJAJ-AUTO,2023,2024,Dividend Distributor,Debt Reducer
+C045,INDUSINDBK,2023,2024,Debt Reducer,Acquisition Led
+C046,ADANIPORTS,2023,2024,Acquisition Led,Capex Heavy
+C047,SHRIRAMFIN,2023,2024,Capex Heavy,Working Capital Builder
+C048,HDFCLIFE,2023,2024,Working Capital Builder,Turnaround
+C049,SBILIFE,2023,2024,Turnaround,Reinvestor
+C050,ICICIPRULI,2023,2024,Reinvestor,Cash Compounder
+C051,DLF,2023,2024,Cash Compounder,Dividend Distributor
+C052,PIDILITIND,2023,2024,Dividend Distributor,Debt Reducer
+C053,GODREJCP,2023,2024,Debt Reducer,Acquisition Led
+C054,DABUR,2023,2024,Acquisition Led,Capex Heavy
+C055,HAVELLS,2023,2024,Capex Heavy,Working Capital Builder
+C056,AMBUJACEM,2023,2024,Working Capital Builder,Turnaround
+C057,SIEMENS,2023,2024,Turnaround,Reinvestor
+C058,ABB,2023,2024,Reinvestor,Cash Compounder
+C059,VEDL,2023,2024,Cash Compounder,Dividend Distributor
+C060,BANKBARODA,2023,2024,Dividend Distributor,Debt Reducer
+C061,PNB,2023,2024,Debt Reducer,Acquisition Led
+C062,CANBK,2023,2024,Acquisition Led,Capex Heavy
+C063,UNIONBANK,2023,2024,Capex Heavy,Working Capital Builder
+C064,TVSMOTOR,2023,2024,Working Capital Builder,Turnaround
+C065,TRENT,2023,2024,Turnaround,Reinvestor
+C066,ZOMATO,2023,2024,Reinvestor,Cash Compounder
+C067,DMART,2023,2024,Cash Compounder,Dividend Distributor
+C068,NAUKRI,2023,2024,Dividend Distributor,Debt Reducer
+C069,IRCTC,2023,2024,Debt Reducer,Acquisition Led
+C070,BEL,2023,2024,Acquisition Led,Capex Heavy
+C071,HAL,2023,2024,Capex Heavy,Working Capital Builder
+C072,BHEL,2023,2024,Working Capital Builder,Turnaround
+C073,ADANIGREEN,2023,2024,Turnaround,Reinvestor
+C074,ADANIPOWER,2023,2024,Reinvestor,Cash Compounder
+C075,JIOFIN,2023,2024,Cash Compounder,Dividend Distributor
+C076,LTIM,2023,2024,Dividend Distributor,Debt Reducer
+C077,PERSISTENT,2023,2024,Debt Reducer,Acquisition Led
+C078,OFSS,2023,2024,Acquisition Led,Capex Heavy
+C079,MPHASIS,2023,2024,Capex Heavy,Working Capital Builder
+C080,LUPIN,2023,2024,Working Capital Builder,Turnaround
+C081,TORNTPHARM,2023,2024,Turnaround,Reinvestor
+C082,BIOCON,2023,2024,Reinvestor,Cash Compounder
+C083,MOTHERSON,2023,2024,Cash Compounder,Dividend Distributor
+C084,BOSCHLTD,2023,2024,Dividend Distributor,Debt Reducer
+C085,INDIGO,2023,2024,Debt Reducer,Acquisition Led
+C086,GAIL,2023,2024,Acquisition Led,Capex Heavy
+C087,IOC,2023,2024,Capex Heavy,Working Capital Builder
+C088,PETRONET,2023,2024,Working Capital Builder,Turnaround
+C089,COLPAL,2023,2024,Turnaround,Reinvestor
+C090,MARICO,2023,2024,Reinvestor,Cash Compounder
+C091,BERGEPAINT,2023,2024,Cash Compounder,Dividend Distributor
+C092,SHREECEM,2023,2024,Dividend Distributor,Debt Reducer

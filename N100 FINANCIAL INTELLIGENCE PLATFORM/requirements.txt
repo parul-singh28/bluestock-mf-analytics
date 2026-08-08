@@ -17,3 +17,8 @@ flake8
 tqdm
 python-dateutil
 packaging
+streamlit
+pandas
+plotly
+openpyxl
+requests

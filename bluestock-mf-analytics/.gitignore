@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+nifty100.db
+output/
+data/
+*.pyc

@@ -1,0 +1,565 @@
+company_id,type,rule_id,text,confidence_pct
+C001,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C001,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C001,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C001,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C001,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C001,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C002,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C002,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C002,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C002,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C002,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C002,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C003,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C003,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C003,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C003,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C003,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C003,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C004,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C004,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C004,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C004,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C004,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C004,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C005,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C005,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C005,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C005,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C005,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C005,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C006,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C006,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C006,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C006,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C006,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C006,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C007,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C007,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,75
+C007,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C007,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C007,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C007,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C008,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C008,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,76
+C008,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C008,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C008,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C008,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C009,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C009,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C009,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C009,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C009,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C009,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C010,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C010,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C010,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C010,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C010,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C010,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C011,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C011,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C011,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C011,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C011,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C011,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C012,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C012,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C012,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C012,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C012,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C012,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C013,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C013,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C013,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C013,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C013,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C013,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C014,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C014,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C014,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C014,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C014,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C014,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C014,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C015,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C015,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C015,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C015,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C015,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C015,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C015,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C016,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C016,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C016,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C016,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C016,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C016,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C017,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C017,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,74
+C017,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C017,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C017,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C017,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C018,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C018,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C018,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C018,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C018,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C018,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C019,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C019,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C019,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C019,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C019,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C019,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C020,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C020,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C020,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C020,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C020,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C020,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C021,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C021,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C021,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C021,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C021,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C021,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C022,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C022,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C022,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C022,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C022,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C022,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C023,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C023,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C023,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C023,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C023,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C023,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C024,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C024,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C024,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C024,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C024,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C024,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C025,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C025,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C025,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C025,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C025,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C025,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C026,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C026,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C026,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C026,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C026,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C026,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C027,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C027,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C027,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C027,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C027,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C027,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C028,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C028,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C028,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C028,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C028,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C028,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C029,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C029,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C029,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C029,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C029,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C029,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C029,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C030,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C030,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C030,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C030,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C030,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C030,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C030,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C031,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C031,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C031,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C031,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C031,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C031,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C031,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C032,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C032,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C032,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C032,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C032,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C032,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C033,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C033,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C033,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C033,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C033,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C033,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C034,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C034,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C034,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C034,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C034,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C034,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C035,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C035,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C035,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C035,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C035,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C035,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C036,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C036,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C036,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C036,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C036,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C036,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C037,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C037,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C037,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C037,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C037,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C037,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C038,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C038,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C038,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C038,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C038,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C038,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C039,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C039,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C039,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C039,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C039,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C039,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C040,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C040,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C040,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C040,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C040,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C040,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C041,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C041,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C041,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C041,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C041,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C041,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C042,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C042,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C042,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C042,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C042,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C042,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C043,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C043,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C043,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C043,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C043,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C043,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C044,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C044,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,73
+C044,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C044,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C044,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C044,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C045,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C045,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C045,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C045,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C045,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C045,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C045,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C046,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C046,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C046,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C046,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C046,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C046,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C047,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C047,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C047,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C047,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C047,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C047,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C047,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C048,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C048,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C048,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C048,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C048,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C048,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C049,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C049,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C049,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C049,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C049,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C049,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C050,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C050,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C050,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C050,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C050,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C050,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C051,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C051,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C051,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C051,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C051,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C051,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C052,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C052,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C052,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C052,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C052,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C052,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C053,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C053,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C053,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C053,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C053,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C053,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C054,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C054,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C054,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C054,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C054,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C054,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C055,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C055,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C055,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C055,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C055,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C055,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C056,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C056,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C056,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C056,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C056,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C056,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C057,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C057,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C057,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C057,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C057,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C057,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C058,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C058,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C058,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C058,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C058,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C058,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C059,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C059,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C059,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C059,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C059,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C059,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C060,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C060,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C060,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C060,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C060,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C060,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C061,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C061,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C061,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C061,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C061,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C061,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C061,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C062,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C062,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C062,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C062,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C062,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C062,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C062,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C063,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C063,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C063,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C063,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C063,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C063,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C063,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C064,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C064,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C064,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C064,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C064,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C064,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C065,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C065,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C065,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C065,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C065,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C065,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C066,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C066,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C066,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C066,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C066,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C066,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C067,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C067,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C067,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C067,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C067,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C067,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C068,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C068,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C068,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C068,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C068,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C068,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C069,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C069,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C069,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C069,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C069,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C069,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C070,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C070,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C070,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C070,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C070,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C070,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C071,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C071,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C071,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C071,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C071,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C071,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C072,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C072,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C072,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C072,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C072,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C072,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C073,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C073,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C073,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C073,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C073,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C073,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C074,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C074,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C074,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C074,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C074,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C074,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C075,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C075,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C075,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C075,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C075,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C075,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C076,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C076,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C076,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C076,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C076,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C076,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C077,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C077,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C077,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C077,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C077,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C077,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C077,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C078,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C078,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C078,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C078,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C078,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C078,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,86
+C078,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C079,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C079,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C079,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C079,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C079,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C079,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C080,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C080,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,72
+C080,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C080,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C080,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C080,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C081,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C081,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C081,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C081,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C081,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C081,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C082,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C082,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C082,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C082,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C082,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C082,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C083,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C083,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C083,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C083,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C083,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C083,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C084,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C084,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C084,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C084,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C084,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C084,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C085,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C085,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C085,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C085,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C085,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C085,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C086,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C086,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C086,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C086,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C086,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C086,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C087,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C087,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C087,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C087,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C087,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C087,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C088,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C088,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C088,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C088,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C088,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C088,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C089,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C089,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C089,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C089,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C089,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C089,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C090,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C090,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C090,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C090,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C090,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C090,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C091,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C091,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C091,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C091,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C091,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C091,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
+C092,pro,P02,Strong free cash flow generation over 5 years signals healthy business fundamentals,88
+C092,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,71
+C092,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,92
+C092,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,86
+C092,con,C_FALLBACK,"Valuation, leverage, or growth signals should be monitored against sector peers",72
+C092,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,78
