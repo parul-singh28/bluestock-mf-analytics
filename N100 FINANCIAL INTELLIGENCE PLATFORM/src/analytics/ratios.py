@@ -1,6 +1,8 @@
 """Profitability, leverage and efficiency ratio functions."""
 from typing import Optional, Tuple
 
+from src.etl.normaliser import normalize_ticker, normalize_year
+
 
 def safe_div(numerator: Optional[float], denominator: Optional[float]) -> Optional[float]:
     try:
@@ -43,12 +45,14 @@ def operating_profit_margin_pct(operating_profit: Optional[float], sales: Option
 
 
 def return_on_equity_pct(net_profit: Optional[float], equity: Optional[float], reserves: Optional[float]) -> Optional[float]:
-    denom = None
     if equity is None and reserves is None:
         return None
     equity = equity or 0
     reserves = reserves or 0
-    denom = equity + reserves
+    if equity < 0 and reserves > 0:
+        denom = reserves
+    else:
+        denom = equity + reserves
     if denom <= 0:
         return None
     val = safe_div(net_profit, denom)
@@ -64,7 +68,10 @@ def return_on_capital_employed_pct(ebit: Optional[float], equity: Optional[float
     equity = (equity or 0)
     reserves = (reserves or 0)
     borrowings = (borrowings or 0)
-    denom = equity + reserves + borrowings
+    if broad_sector and broad_sector.lower() == "financials":
+        denom = equity + reserves
+    else:
+        denom = equity + reserves + borrowings
     if denom == 0:
         return None, None
     val = safe_div(ebit, denom)
@@ -74,7 +81,7 @@ def return_on_capital_employed_pct(ebit: Optional[float], equity: Optional[float
     benchmark_flag = None
     if broad_sector and broad_sector.lower() == "financials" and sector_benchmark is not None:
         try:
-            benchmark_flag = roce_pct < float(sector_benchmark)
+            benchmark_flag = roce_pct >= float(sector_benchmark)
         except Exception:
             benchmark_flag = None
     return roce_pct, benchmark_flag

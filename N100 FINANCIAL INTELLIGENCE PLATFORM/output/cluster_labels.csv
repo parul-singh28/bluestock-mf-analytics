@@ -1,0 +1,93 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+C001,3,Distressed / Turnaround,0.067892
+C002,4,Emerging Growth,0.268053
+C003,4,Emerging Growth,0.45895
+C004,4,Emerging Growth,1.011258
+C005,4,Emerging Growth,1.110724
+C006,4,Emerging Growth,0.704774
+C007,4,Emerging Growth,0.004972
+C008,3,Distressed / Turnaround,0.072912
+C009,0,High-Quality Compounders,0.289852
+C010,1,Defensive Dividend Payers,0.037508
+C011,2,Value Cyclicals,0.051026
+C012,4,Emerging Growth,0.479433
+C013,4,Emerging Growth,0.070322
+C014,4,Emerging Growth,0.164465
+C015,3,Distressed / Turnaround,0.027963
+C016,4,Emerging Growth,0.365365
+C017,3,Distressed / Turnaround,0.143724
+C018,1,Defensive Dividend Payers,0.104259
+C019,2,Value Cyclicals,0.222462
+C020,3,Distressed / Turnaround,0.005532
+C021,4,Emerging Growth,0.118149
+C022,4,Emerging Growth,0.101914
+C023,4,Emerging Growth,0.191302
+C024,3,Distressed / Turnaround,0.108574
+C025,1,Defensive Dividend Payers,0.280045
+C026,1,Defensive Dividend Payers,0.091181
+C027,0,High-Quality Compounders,0.145587
+C028,1,Defensive Dividend Payers,0.177204
+C029,2,Value Cyclicals,0.031602
+C030,3,Distressed / Turnaround,0.045077
+C031,3,Distressed / Turnaround,0.032808
+C032,4,Emerging Growth,0.174864
+C033,3,Distressed / Turnaround,0.138073
+C034,1,Defensive Dividend Payers,0.337203
+C035,1,Defensive Dividend Payers,0.152333
+C036,1,Defensive Dividend Payers,0.21751
+C037,2,Value Cyclicals,0.117782
+C038,3,Distressed / Turnaround,0.043984
+C039,4,Emerging Growth,0.38264
+C040,3,Distressed / Turnaround,0.161016
+C041,2,Value Cyclicals,0.052798
+C042,1,Defensive Dividend Payers,0.091549
+C043,0,High-Quality Compounders,0.062284
+C044,0,High-Quality Compounders,0.076945
+C045,0,High-Quality Compounders,0.045671
+C046,1,Defensive Dividend Payers,0.042349
+C047,2,Value Cyclicals,0.023007
+C048,4,Emerging Growth,0.03755
+C049,4,Emerging Growth,0.412825
+C050,2,Value Cyclicals,0.1278
+C051,1,Defensive Dividend Payers,0.040184
+C052,0,High-Quality Compounders,0.364093
+C053,1,Defensive Dividend Payers,0.043362
+C054,1,Defensive Dividend Payers,0.022127
+C055,2,Value Cyclicals,0.134347
+C056,3,Distressed / Turnaround,0.032018
+C057,3,Distressed / Turnaround,0.062574
+C058,2,Value Cyclicals,0.111109
+C059,0,High-Quality Compounders,0.34898
+C060,0,High-Quality Compounders,0.203528
+C061,0,High-Quality Compounders,0.304774
+C062,0,High-Quality Compounders,0.08423
+C063,0,High-Quality Compounders,0.273589
+C064,3,Distressed / Turnaround,0.252128
+C065,4,Emerging Growth,0.25933
+C066,3,Distressed / Turnaround,0.182573
+C067,2,Value Cyclicals,0.018025
+C068,1,Defensive Dividend Payers,0.115354
+C069,0,High-Quality Compounders,0.104298
+C070,0,High-Quality Compounders,0.203961
+C071,1,Defensive Dividend Payers,0.11856
+C072,2,Value Cyclicals,0.20994
+C073,2,Value Cyclicals,0.26941
+C074,3,Distressed / Turnaround,0.223957
+C075,2,Value Cyclicals,0.19754
+C076,0,High-Quality Compounders,0.264815
+C077,0,High-Quality Compounders,0.359775
+C078,0,High-Quality Compounders,0.575778
+C079,0,High-Quality Compounders,0.285859
+C080,2,Value Cyclicals,0.221738
+C081,3,Distressed / Turnaround,0.029126
+C082,4,Emerging Growth,0.45835
+C083,3,Distressed / Turnaround,0.084743
+C084,2,Value Cyclicals,0.031191
+C085,1,Defensive Dividend Payers,0.192406
+C086,0,High-Quality Compounders,0.068283
+C087,0,High-Quality Compounders,0.083793
+C088,1,Defensive Dividend Payers,0.248077
+C089,2,Value Cyclicals,0.143746
+C090,2,Value Cyclicals,0.025958
+C091,2,Value Cyclicals,0.141263
+C092,1,Defensive Dividend Payers,0.32561

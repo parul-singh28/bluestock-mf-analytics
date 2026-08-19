@@ -35,7 +35,19 @@ def normalize_ticker(ticker):
     if ticker is None:
         return None
     s = str(ticker).strip().upper()
-    # remove common exchange suffixes
-    s = re.split(r"[\.\-_/:]", s)[0]
-    s = re.sub(r"[^A-Z0-9]", "", s)
-    return s
+    if not s:
+        return ""
+
+    tokens = re.findall(r"[A-Z0-9]+", s)
+    if not tokens:
+        return ""
+
+    cleaned = []
+    for token in tokens:
+        if token in {"NSE", "BSE", "BOM", "BO", "NS", "EX", "IND", "IN"}:
+            break
+        cleaned.append(token)
+
+    if not cleaned:
+        return tokens[0]
+    return "".join(cleaned)

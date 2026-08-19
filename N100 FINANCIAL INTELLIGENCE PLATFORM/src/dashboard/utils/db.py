@@ -5,7 +5,18 @@ import sqlite3
 from pathlib import Path
 
 import pandas as pd
-import streamlit as st
+try:
+    import streamlit as st
+except ModuleNotFoundError:
+    class _StreamlitFallback:
+        @staticmethod
+        def cache_data(*args, **kwargs):
+            def decorator(func):
+                return func
+
+            return decorator
+
+    st = _StreamlitFallback()
 
 YEARS = list(range(2015, 2025))
 ROOT = Path(__file__).resolve().parents[3]

@@ -1,4 +1,4 @@
-VENV=.venv
+VENV=../.venv4
 PYTHON=${VENV}/Scripts/python.exe
 
 .PHONY: setup install test load validate clean
@@ -11,7 +11,7 @@ setup:
 install: setup
 
 test:
-	${PYTHON} -m pytest -q
+	${PYTHON} tools/run_tests_with_report.py
 
 load:
 	${PYTHON} -m src.etl.loader --db nifty100.db --data-dir data
@@ -26,13 +26,13 @@ clean:
 	rm -rf ${VENV} nifty100.db output/*
 
 ratios:
-	@echo "Placeholder: compute financial ratios (not yet implemented)"
+	${PYTHON} tools/generate_deliverables.py
 
 report:
-	@echo "Placeholder: generate report (not yet implemented)"
+	${PYTHON} tools/generate_deliverables.py
 
 dashboard:
-	@echo "Placeholder: start dashboard (not yet implemented)"
+	${PYTHON} -m streamlit run src/dashboard/app.py --server.port 8501
 
 api:
-	@echo "Placeholder: start API (not yet implemented)"
+	${PYTHON} -m uvicorn src.api.main:app --host 127.0.0.1 --port 8000

@@ -42,7 +42,7 @@ def test_normalize_year_various(inp, expected):
     (None, None),
     ("1234.ns", "1234"),
     ("ABCD/EX", "ABCD"),
-    ("a.b-c:d_e", "A"),
+    ("a.b-c:d_e", "ABCDE"),
     ("TCS", "TCS"),
     ("tcs.nse.in", "TCS"),
     ("t-cs", "TCS"),
