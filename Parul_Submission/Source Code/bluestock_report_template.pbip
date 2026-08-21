@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "id": "bluestock-mutual-fund-report",
+        "name": "Bluestock Mutual Fund Analytics"
+      }
+    }
+  ],
+  "settings": {
+    "enableAutoRecovery": true
+  }
+}

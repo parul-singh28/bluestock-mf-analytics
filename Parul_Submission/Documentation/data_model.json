@@ -1,0 +1,53 @@
+{
+  "report_name": "Bluestock Mutual Fund Analytics",
+  "source_files": [
+    "../data/01_fund_master.csv",
+    "../data/processed/nav_history_clean.csv",
+    "../data/processed/investor_transactions_clean.csv",
+    "../data/processed/scheme_performance_clean.csv"
+  ],
+  "relationships": [
+    {
+      "from": "dim_fund.amfi_code",
+      "to": "fact_nav.amfi_code",
+      "type": "many-to-one"
+    },
+    {
+      "from": "dim_fund.amfi_code",
+      "to": "fact_transactions.amfi_code",
+      "type": "many-to-one"
+    },
+    {
+      "from": "dim_fund.amfi_code",
+      "to": "fact_performance.amfi_code",
+      "type": "many-to-one"
+    },
+    {
+      "from": "fact_nav.date",
+      "to": "fact_transactions.transaction_date",
+      "type": "many-to-many"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Industry Overview",
+      "description": "KPI cards and trend charts for AUM, SIP inflows, folios, and schemes"
+    },
+    {
+      "name": "Fund Performance",
+      "description": "Return vs risk scatter plot, scorecard, and NAV vs benchmark"
+    },
+    {
+      "name": "Investor Analytics",
+      "description": "Transaction patterns by state, type, age group, and monthly volume"
+    },
+    {
+      "name": "SIP & Market Trends",
+      "description": "SIP inflows versus Nifty 50 and category inflow heatmap"
+    },
+    {
+      "name": "NAV Detail",
+      "description": "Drill-through page for fund-level NAV detail"
+    }
+  ]
+}

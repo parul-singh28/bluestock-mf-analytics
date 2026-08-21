@@ -1,0 +1,4 @@
+amfi_code,return_1yr_pct,return_3yr_pct,return_5yr_pct,benchmark_3yr_pct,alpha,beta,sharpe_ratio,sortino_ratio,std_dev_ann_pct,max_drawdown_pct,morningstar_rating,expense_ratio_pct
+125497,18.5,15.3,14.1,14.0,1.3,0.95,1.2,1.5,12.5,-15.2,4,1.05
+102345,14.2,12.1,11.5,14.0,-1.9,0.88,0.85,0.95,11.2,-18.4,3,1.65
+145678,22.1,19.4,17.2,18.0,1.4,1.02,1.45,1.8,14.1,-13.5,5,0.55

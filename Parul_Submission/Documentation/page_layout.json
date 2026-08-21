@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "name": "Industry Overview",
+      "visuals": [
+        "KPI cards: Total AUM, SIP Inflows, Folios, Schemes",
+        "Line chart: industry AUM trend 2022-2025",
+        "Bar chart: AUM by AMC"
+      ]
+    },
+    {
+      "name": "Fund Performance",
+      "visuals": [
+        "Scatter plot: return vs std dev with bubble size = AUM",
+        "Sortable fund scorecard table",
+        "NAV line vs benchmark",
+        "Slicers: fund house, category, plan"
+      ]
+    },
+    {
+      "name": "Investor Analytics",
+      "visuals": [
+        "Bar chart: transaction amount by state",
+        "Donut chart: SIP / Lumpsum / Redemption split",
+        "Bar chart: age group vs avg SIP amount",
+        "Line chart: monthly transaction volume",
+        "Slicers: state, age group, city tier"
+      ]
+    },
+    {
+      "name": "SIP & Market Trends",
+      "visuals": [
+        "Dual-axis: SIP inflow bar + Nifty 50 line",
+        "Heatmap: category inflow",
+        "Top 5 categories by net inflow FY25"
+      ]
+    },
+    {
+      "name": "NAV Detail",
+      "visuals": [
+        "Drill-through page for fund-level NAV detail",
+        "NAV line by date and benchmark"
+      ]
+    }
+  ]
+}
